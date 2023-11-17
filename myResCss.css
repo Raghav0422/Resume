@@ -1,0 +1,247 @@
+body{
+	background-color:#000000;
+	margin:5% 0 0 0;
+	/* width:10%; */
+}
+.base{
+	background-color:#181818;
+	width:80%;
+	height:110%;
+	margin-left:10%;
+	/* margin:-30% 0 0 10%; */
+}
+.menu{
+	background-color:#202020;
+	width:5%;
+	height:100%;
+	display:inline-block;
+	position:absolute;
+	
+}
+.menuButton{
+	width:80%;
+	margin: 10% 0 0 10%;
+	height:35px;
+	font-size:50%;
+	background-color:transparent;
+}
+.menuLineBox{
+	width: 30%;
+ 	height: 60%;
+	padding: 30% 0 0 0;
+	margin-left:27%;
+	background-color: transparent;
+}
+.menuLine{
+	width: 100%;
+ 	height: 15%;
+	background-color: white;
+	margin:20% 0 0 30%;	
+}
+.menuButton:hover .menuLine{
+	/*background-color:#33CC66;*/
+	background-color:#33cc66;
+}
+.profileButton{
+	width:80%;
+	margin: 300% 0 0 10%;
+	height:35px;
+	font-size:50%;
+	background-color:transparent;
+}
+.profileButton i{
+	width: 60%;
+ 	height: 90%;
+	padding: 30% 0 0 0;
+	margin-left:27%;
+	font-size:300%;	
+	color:white;
+}
+.profileButton i:hover{
+	color:#33CC66;
+}
+
+.phoneButton{
+	width:80%;
+	margin: 40% 0 0 10%;
+	height:35px;
+	font-size:50%;
+	background-color:transparent;
+}
+.phoneButton i{
+	width: 60%;
+ 	height: 90%;
+	padding: 30% 0 0 0;
+	margin-left:27%;
+	font-size:300%;	
+	color:white;
+}
+.phoneButton i:hover{
+	color:#33CC66;
+}
+
+.editButton{
+	width:80%;
+	margin: 40% 0 0 10%;
+	height:35px;
+	font-size:50%;
+	background-color:transparent;
+}
+.editButton i{
+	width: 60%;
+ 	height: 90%;
+	padding: 30% 0 0 0;
+	margin-left:27%;
+	font-size:300%;	
+	color:white;
+}
+.editButton i:hover{
+	color:#33CC66;
+}
+
+
+.suitCaseButton{
+	width:80%;
+	margin: 40% 0 0 10%;
+	height:35px;
+	font-size:50%;
+	background-color:transparent;
+}
+.suitCaseButton i{
+	width: 60%;
+ 	height: 90%;
+	padding: 30% 0 0 0;
+	margin-left:27%;
+	font-size:300%;	
+	color:white;
+}
+.suitCaseButton i:hover{
+	color:#33CC66;
+}
+
+.certificateButton{
+	width:80%;
+	margin: 40% 0 0 10%;
+	height:35px;
+	font-size:50%;
+	background-color:transparent;
+}
+.certificateButton i{
+	width: 60%;
+ 	height: 90%;
+	padding: 30% 0 0 0;
+	margin-left:27%;
+	font-size:300%;	
+	color:white;
+}
+.certificateButton i:hover{
+	color:#33CC66;
+}
+
+.imageBase{
+	width:30%;
+	height:100%;
+	background-color:#202020;
+	position:absolute;
+	display:inline-block;
+	margin:0 0 0 6% ;
+}
+.pic{
+	width:100%;
+	height:100%;
+	background-color:#202020;
+	position:absolute;
+	margin:0 0 0 0 ;
+}
+.pic img{
+	width:100%;
+	height:100%;
+	opacity:0.2;
+	position:absolute;
+}
+.info{
+	width:100%;
+	height:25%;
+	background-color:transparent;
+	position:absolute;
+	margin:110% 0 0 20% ;
+	color:White;
+}
+.info h4{
+	color:#33CC66;
+	padding:0 0 0 17%;
+}
+.info i{
+	margin-left:7%;
+}
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey; 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: #33CC66; 
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b30000; 
+}
+
+.contentBase{
+	width:140%;
+	height:100%;
+	background-color:#202020;
+	/* position:absolute;
+	/*display:inline-block; 8*/
+	margin:0 0 0 105% ;
+	overflow-x:hidden;
+	overflow-y:center;
+}
+.contentBase h1{
+	font-size:300%;
+	color:white;
+	margin:0 0 0 0;
+}
+.contentBase i{
+	color:#33cc00;
+}
+.contentBase hr,p{
+	color:#606060;
+}
+.projectBase{
+	width:135%;
+	height:100%;
+	background-color:#202020;
+	/*position:relative;
+	//display:inline-block;*/
+	margin:0 0 0 0;
+}
+.projectBase h2{
+	font-size:150%;
+	color:white;
+	margin:0 0 0 0;
+}
+.projectBase i{
+	font-size:70%;
+
+}
+.schoolAS{
+	width:30%;
+	height:25%;
+	background-color:transparent;
+/*	position:absolute;*/
+	margin: 2%;
+}
+.schoolAs i{
+	font-size:300%;
+	color:white;
+}
+.schoolAs font{
+	color:white;
+}
+.schoolAs p{
+	/*color:#606060; */
+	font-size:70%;
+}
