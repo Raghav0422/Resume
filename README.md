@@ -12,7 +12,7 @@ Here is the **extracted text** from your uploaded resume image:
 
 ### **Objective**
 
-I'm an IT professional with 3.8 years of experience in system and application support, now actively driving my career toward backend development. I'm deeply immersed in learning Python and Django, with a passion for designing and implementing REST APIs and understanding of web application architecture.
+Leveraging 3.8 years of experience in L1 system and application support within enterprise environments, I am strategically transitioning into backend development. My proven problem-solving are now being applied to hands-on learning in Python and Django, as I build expertise in REST APIs and web application architecture.
 
 ---
 
